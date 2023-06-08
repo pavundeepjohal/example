@@ -40,3 +40,5 @@ function generateRandomNumber(num) {
   }
   
   formatWisdom(personalWisdom);
+
+  //hello
