@@ -41,4 +41,4 @@ function generateRandomNumber(num) {
   
   formatWisdom(personalWisdom);
 
-  //hello334
+  //hello334567
